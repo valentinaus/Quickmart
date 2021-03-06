@@ -7,16 +7,19 @@ Quickmart it's a demo project made for the "Web development" course, the purpose
 download or clone the project.
 
 then move to the project route.
-bash
+```bash
 cd ../Quickmart
+```
 install dependencies
-bash
+```bash
 npm install
+```
 Done :D
 ## Usage
 
 To run the project, use the command:
-bash
+```bash
 /npm start
+```
 The proyect will open in the browser,
 enjoy 🔥
