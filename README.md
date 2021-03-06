@@ -1,6 +1,6 @@
 # Quickmart
 
-simulate an online grocery store where medium and small stores can offer their product by name, photo and price. The customers can select the market they want to buy from, the products and store them in the shopping cart. Finally, make the payment and receive their purchases by delivery.
+Quickmart is a demo project made for the "Web development" course, its purpose is to simulate an online grocery store where medium and small stores can offer their product by name, photo and price. The customers can select the market they want to buy from, the products and store them in the shopping cart. Finally, make the payment and receive their purchases by delivery.
 
 ## Installation
 
