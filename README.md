@@ -4,13 +4,13 @@ Quickmart is a demo project made for the "Web development" course, its purpose i
 
 ## Installation
 
-download or clone the project.
+Download or clone the project.
 
-then move to the project route.
+Then move to the project route.
 ```bash
 cd ../Quickmart
 ```
-install dependencies
+Install dependencies
 ```bash
 npm install
 ```
