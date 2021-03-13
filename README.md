@@ -2,16 +2,16 @@
 
 Quickmart es un proyecto demo desarrollado con React para el curso de "Desarrollo Web". Su proposito es simular una tienda a mercados medianos y pequeños en donde puedan ofrecer sus productos (por nombre, foto y precio) a sus clientes. Los usuarios pueden seleccionar el mercado en que desean comprar, sus productos y guardarlos en un carrito. Finalmente, puede realizar el pago y recibir sus comprar a domicilio.
 
-# Objetivo
+## Objetivo
 
 Desarrollar una página web que responda a una necesidad real ocasionada por la pandemia y el COVID-19.
 
-# Especificaciones
+## Especificaciones
 
 - Aplicación desarrollada con React 17.0.1.
 - Base de datos creada en Firebase.
 
-# Dependencias
+## Dependencias
 ```
 "bootstrap": "^4.5.3",
 "firebase": "^8.1.1",
