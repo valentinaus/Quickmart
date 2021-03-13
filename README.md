@@ -29,6 +29,9 @@ Desarrollar una página web que responda a una necesidad real ocasionada por la 
 "@fortawesome/free-solid-svg-icons": "^5.15.1",
 "@fortawesome/react-fontawesome": "^0.1.12",
 ```
+
+
+
 ## Instalación
 
 Descarga o clona el proyecto.
@@ -46,7 +49,7 @@ Y listo!
 ## Uso
 Para correr el proyecto, usar el comando:
 ```bash
-/npm start
+npm start
 ```
 El proyecto se abrirá en el navegador.
 
