@@ -36,6 +36,11 @@ Desarrollar una página web que responda a una necesidad real ocasionada por la 
 
 ![Hnet-image (4)](https://user-images.githubusercontent.com/42383401/111034326-18b10000-83e3-11eb-825a-6c4a0e45bef1.gif)
 
+![ezgif-6-dfeea740fc3f](https://user-images.githubusercontent.com/42383401/111036615-0ee0ca00-83ee-11eb-995d-9437f4e14b47.gif)
+
+![ezgif-6-11bed0018efd](https://user-images.githubusercontent.com/42383401/111036644-3768c400-83ee-11eb-8bfd-cdb0491f8a4f.gif)
+
+
 
 
 ## Instalación
